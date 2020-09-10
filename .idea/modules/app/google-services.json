@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265526099409",
+    "firebase_url": "https://childthermometer.firebaseio.com",
+    "project_id": "childthermometer",
+    "storage_bucket": "childthermometer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265526099409:android:f6f0ffb97858bc38f8b4f0",
+        "android_client_info": {
+          "package_name": "com.example.childthermometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265526099409-dr2knr9k0a4cc6vfiqubq3cp40r8j4a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.childthermometer",
+            "certificate_hash": "6e2a769aae1963c9189a4fb1c71fdd5bb580640f"
+          }
+        },
+        {
+          "client_id": "265526099409-onmgj1h55vnrvh380pkli7t7ig9qmoo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMkm1D35-bVSiTb7WttTXjvZuqSPFrxNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265526099409-onmgj1h55vnrvh380pkli7t7ig9qmoo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

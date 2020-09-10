@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChildThermometer</string>
+    <string name="set_trigger_temperature">Set trigger temperature:</string>
+</resources>
